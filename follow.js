@@ -12,3 +12,7 @@ var x = 'yes', r = "no";
 x = 'maybe'
 
 console.log(x)
+
+function speaker(){
+  var sentence = "bird"
+}
