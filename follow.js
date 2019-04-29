@@ -17,5 +17,4 @@ function speaker(){
   sentence = "bribe";
 }
 
-speaker();
 console.log(sentence);
