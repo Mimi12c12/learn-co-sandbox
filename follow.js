@@ -15,7 +15,6 @@ console.log(x)
 
 function speaker(){
   var sentence = "bribe";
-  console.log(sentence)
 }
 
 speaker();
