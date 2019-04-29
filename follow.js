@@ -14,7 +14,7 @@ x = 'maybe'
 console.log(x)
 
 function speaker(){
-  var sentence = "bribe";
+  sentence = "bribe";
 }
 
 speaker();
